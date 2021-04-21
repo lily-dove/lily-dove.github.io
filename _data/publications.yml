@@ -1,15 +1,15 @@
-- title: "Cryo-EM model validation recommendations based on outcomes of the 2019 EMDataResource challenge."
-  citation: "Lawson CL, Kryshtafovych A, Adams PD, Afonine PV, Baker ML, **Barad BA**, Bond P, Burnley T, Cao R, Cheng J, Chojnowski G, Cowtan K, Dill KA, DiMaio F, Farrell DP, Fraser JS, Jr. MAH, Hoh SW, Hou J, Hung L, Igaev M, Joseph AP, Kihara D, Kumar D, Mittal S, Monastyrskyy B, Olek M, Palmer CM, Patwardhan A, Perez A, Pfab J, Pintilie GD, Richardson JS, Rosenthal PB, Sarkar D, Schäfer LU, Schmid MF, Schröder GF, Shekhar M, Si D, Singharoy A, Terashi G, Terwilliger TC, Vaiana A, Wang L, Wang Z, Wankowicz SA, Williams CJ, Winn M, Wu T, Yu X, Zhang K, Berman HM, Chiu W. *Nature Methods*. 2021."
-  date: '2020-06-19'
+- title: "Observational evidence of ventilation hotspots in the Southern Ocean."
+  citation: "**Dove LA**, Thompson AF, Balwada D, Gray AR. *Journal of Geophysical Research: Oceans* 2021."
+  date: '2021'
   image: '/static/img/pub/2020_lawson.jpg'
-  pmid: '33542514'
-  pmcid: 'PMC7864804'
-  biorxiv: '2020.06.12.147033'
-  pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
-  links:
-    - name: 2019 Model Metrics Challenge
-      url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
-
+  #pmid: '33542514'
+  #pmcid: 'PMC7864804'
+  #biorxiv: '2020.06.12.147033'
+  #pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
+  #links:
+  #  - name: 2019 Model Metrics Challenge
+  #    url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+<!--
 - title: "Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates"
   citation: "**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**.  *Protein Science*. 2020."
   date: '2020-01-12'
@@ -132,3 +132,4 @@
     - name: Blog Post about EMRinger
       url: '/2015/02/17/EMRinger/'
 
+-->
