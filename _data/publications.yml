@@ -17,10 +17,9 @@
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
-  [Atmospheric Chemistry and Physics](https://acp.copernicus.org/articles/20/15341/2020/)
-#  links:
-#    - name: Chitin Analysis Scripts on GitHub
-#      url: https://github.com/fraser-lab/chitin_analysis
+  links:
+    - name: Atmospheric Chemistry and Physics
+      url: https://acp.copernicus.org/articles/20/15341/2020/
 #    - name: Relax Scripts for calculating non-linear relaxation fits on GitHub
 #      url: https://github.com/fraser-lab/relax
 #    - name: Locksley lab @ UC San Francisco
@@ -43,4 +42,6 @@
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
-  [Environmental Science & Technology](https://pubs.acs.org/doi/abs/10.1021/acs.est.8b05150)
+    links:
+    - name: Environmental Science & Technology
+      url: https://pubs.acs.org/doi/abs/10.1021/acs.est.8b05150
