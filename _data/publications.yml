@@ -1,7 +1,7 @@
-- title: "Observational evidence of ventilation hotspots in the Southern Ocean."
-  citation: "**Dove LA**, Thompson AF, Balwada D, Gray AR. *Journal of Geophysical Research: Oceans* 2021."
+- title: "Observational Evidence of Ventilation Hotspots in the Southern Ocean."
+  citation: "**Dove, Lilian A.**, Andrew F. Thompson, Dhruv Balwada, Alison R. Gray. In review at *Journal of Geophysical Research: Oceans* 2021."
   date: '2021'
-  image: '/static/img/pub/2020_lawson.jpg'
+  image: '/static/img/pub/Dove_JGR_2021.jpg'
   #pmid: '33542514'
   #pmcid: 'PMC7864804'
   #biorxiv: '2020.06.12.147033'
@@ -10,14 +10,14 @@
   #  - name: 2019 Model Metrics Challenge
   #    url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
 
-#- title: "Differences in the chitinolytic activity of mammalian chitinases on soluble and insoluble substrates"
-#  citation: "**Barad BA, Liu L, Diaz RE, Basillo R**, Van Dyken SJ, Locksley RM, **Fraser JS**.  *Protein Science*. 2020."
-#  date: '2020-01-12'
+- title: "A Link between the Ice Nucleation Activity of Sea Spray Aerosol and the Biogeochemistry of Seawater"
+  citation: "Martin J. Wolf, Megan Goodell, Eric Dong, **Lilian A. Dove**, Cuiqi Zhang, Lesly J. Franco, Chuanyang Shen, Emma G. Rutkowski, Domenic N. Narducci, Susan Mullen, Andrew R. Babbin, Daniel J. Cziczo.  *Atmospheric Chemistry and Physics*. 2020."
+  date: '2020-06-09'
 #  image: '/static/img/pub/chitin_2019.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
-#  pdf: '/static/pdf/2020_barad.pdf'
+  [Access here](https://acp.copernicus.org/articles/20/15341/2020/)
 #  links:
 #    - name: Chitin Analysis Scripts on GitHub
 #      url: https://github.com/fraser-lab/chitin_analysis
