@@ -9,5 +9,7 @@ group: home
 <h1 class="text-center">Lily Dove</h1>
 
 <p class="lead text-justify">
-I am an oceanographer studying the interactions of physics and biogeochemistry in the Southern Ocean. Currently at Caltech, I use data from underwater autonomous vehicles and satellites to understand what role the ocean plays in our climate system. In a past life at MIT, I worked to understand how aerosol droplets produced by sea spray could act as nucleation sites for ice clouds. Overall, I am fascinated by all things Earth science and am thrilled that my job is to ask and answer questions about the amazing planet we live on.
+I am an oceanographer studying the interactions of physics and biogeochemistry in the Southern Ocean. Currently at Caltech, I use data from underwater autonomous vehicles and satellites to understand what role the ocean plays in our climate system. More than 40% of the anthropogenic carbon dioxide in the ocean has been taken up by the Southern Ocean, despite it making up 30% of the global ocean surface area. As a result, the Southern Ocean a region of intense interest for scientists who want to understand how the ocean will help mediate anthropogenic climate change. In a past life at MIT, I worked to understand how aerosol droplets produced by sea spray could act as nucleation sites for ice clouds. Overall, I am fascinated by all things related to Earth science and am thrilled that my job is to ask and answer questions about the amazing planet we live on.
+  
+ Outside of research, I participate in outreach at local middle schools in the Pasadena Unified School District and am passionate about increasing the accessibility of Earth science to female, BIPOC, first-generation, LGBTQ+, and disabled students.
 </p>
