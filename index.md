@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" style="width:250px;height:250px;" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/>
+<img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="250" height="250" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/>
 
 <h1 class="text-center">Lily Dove</h1>
 
