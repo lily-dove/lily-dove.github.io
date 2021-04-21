@@ -17,7 +17,7 @@
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
-  [Access here](https://acp.copernicus.org/articles/20/15341/2020/)
+  [Atmospheric Chemistry and Physics](https://acp.copernicus.org/articles/20/15341/2020/)
 #  links:
 #    - name: Chitin Analysis Scripts on GitHub
 #      url: https://github.com/fraser-lab/chitin_analysis
@@ -34,3 +34,13 @@
 #      url: 'https://github.com/fraser-lab/EMRinger'
 #    - name: Blog Post about EMRinger
 #      url: '/2015/02/17/EMRinger/'
+
+
+- title: "Investigating the Heterogeneous Ice Nucleation of Sea Spray Aerosols Using Prochlorococcus as a Model Source of Marine Organic Matter"
+  citation: "Martin J. Wolf, Alison Coe, **Lilian A. Dove**, Maria A. Zawadowicz, Keven Dooley, Steven J. Biller, Yue Zhang, Sallie W. Chisholm, Daniel J. Cziczo.  *Environmental Science & Technology*. 2019."
+  date: '2018-12-27'
+#  image: '/static/img/pub/chitin_2019.jpg'
+#  pmid: '31930591'
+#  pmcid: 'PMC7096708'
+#  biorxiv: '762336'
+  [Environmental Science & Technology](https://pubs.acs.org/doi/abs/10.1021/acs.est.8b05150)
