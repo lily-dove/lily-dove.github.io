@@ -13,5 +13,5 @@ I am an oceanographer studying the interactions of physics and biogeochemistry i
 </p>
   
 <p class="lead text-justify">
- Outside of research, I participate in outreach at local middle schools in the Pasadena Unified School District and am passionate about increasing the accessibility of Earth science to female, BIPOC, first-generation, LGBTQ+, and disabled students.
+ Outside of research, I participate in outreach at local middle schools in the Pasadena Unified School District and am passionate about increasing the accessibility of Earth science to female, BIPOC, first-generation, LGBTQ+, and disabled students. I am also an avid reader and baker and am always looking for my next cookie recipe!
 </p>
