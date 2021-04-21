@@ -8,5 +8,6 @@ group: contact
 
 The easiest way to get in touch with me is by email at [dove@caltech.edu](mailto:dove@caltech.edu). 
 
-You can also find me online at [twitter](http://twitter.com/SoLilyQuizing) and [instagram](https://instagram.com/SoLilyQuizing).
+You can also find me online at [Twitter](http://twitter.com/SoLilyQuizing) and [Instagram](https://instagram.com/SoLilyQuizing).
 
+This website template was designed by [Benjamin Baird](https://github.com/bbarad/bbarad.github.io).
