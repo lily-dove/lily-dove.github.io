@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" alt="Giving a talk about recent developments in electron crystallography, February 2014"/>
+<img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" style="width:500px;height:500px;" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/>
 
 <h1 class="text-center">Lily Dove</h1>
 
