@@ -1,0 +1,49 @@
+- title: "Science nights at PUSD middle schools"
+  citation: "**Dove, Lilian A.**, Andrew F. Thompson, Dhruv Balwada, Alison R. Gray. 2021"
+  date: '2021-06-26'
+  image: '/static/img/pub/Dove_JGR2021.jpg'
+  #pmid: '33542514'
+  #pmcid: 'PMC7864804'
+  #biorxiv: '2020.06.12.147033'
+  #pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
+  #links:
+  #  - name: 2019 Model Metrics Challenge
+  #    url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+  #links:
+    #- name: JGR-Oceans
+    #  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017178
+
+- title: "A Link between the Ice Nucleation Activity of Sea Spray Aerosol and the Biogeochemistry of Seawater"
+  citation: "Wolf, Martin J., Megan Goodell, Eric Dong, **Lilian A. Dove**, Cuiqi Zhang, Lesly J. Franco, Chuanyang Shen, Emma G. Rutkowski, Domenic N. Narducci, Susan Mullen, Andrew R. Babbin, Daniel J. Cziczo.  *Atmospheric Chemistry and Physics*. 2020."
+  date: '2020-06-09'
+  image: '/static/img/pub/Wolf_ACP_2020.jpg'
+#  pmid: '31930591'
+#  pmcid: 'PMC7096708'
+#  biorxiv: '762336'
+  links:
+    - name: Atmospheric Chemistry and Physics
+      url: https://acp.copernicus.org/articles/20/15341/2020/
+#    - name: Relax Scripts for calculating non-linear relaxation fits on GitHub
+#      url: https://github.com/fraser-lab/relax
+#    - name: Locksley lab @ UC San Francisco
+#      url: https://locksleylab.ucsf.edu
+#    - name: Van Dyken lab @ Washington University in St. Louis
+#      url: https://sites.wustl.edu/vandykenlab/
+#    - name: Celebratory Tweetstorm
+#      url: https://twitter.com/benjaminbarad/status/1171091343789056000
+
+#    - name: EMRinger Code on Github
+#      url: 'https://github.com/fraser-lab/EMRinger'
+#    - name: Blog Post about EMRinger
+#      url: '/2015/02/17/EMRinger/'
+
+- title: "Investigating the Heterogeneous Ice Nucleation of Sea Spray Aerosols Using Prochlorococcus as a Model Source of Marine Organic Matter"
+  citation: "Wolf, Martin J., Alison Coe, **Lilian A. Dove**, Maria A. Zawadowicz, Keven Dooley, Steven J. Biller, Yue Zhang, Sallie W. Chisholm, Daniel J. Cziczo.  *Environmental Science & Technology*. 2019."
+  date: '2018-12-27'
+  image: '/static/img/pub/Wolf_EST_2019.jpg'
+#  pmid: '31930591'
+#  pmcid: 'PMC7096708'
+#  biorxiv: '762336'
+  links:
+    - name: Environmental Science & Technology
+      url: https://pubs.acs.org/doi/abs/10.1021/acs.est.8b05150
