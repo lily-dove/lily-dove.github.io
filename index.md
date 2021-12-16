@@ -8,11 +8,11 @@ group: home
 
 <h1 class="text-center">Lily Dove</h1>
 
-<p class="lead text-justify"><b><font size="+2">
+<p class="lead text-justify"><b><font size="+8">
 Follow along with me as I sail by checking out the <a href="https://usgoship.ucsd.edu/blogs/#" target="_blank">blog for the GO-SHIP A13.5 cruise!</a>
 </p></b></font>
 
-<p class="lead text-justify"><b><font size="+2">
+<p class="lead text-justify"><b><font size="+8">
 Submit a question to me about the ship, the people on board, and our science <a href="https://forms.gle/Eafb22s1utG5ihR78" target="_blank">here!</a>
 </p></b></font>
 
