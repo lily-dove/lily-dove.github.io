@@ -4,9 +4,9 @@ layout: default
 group: home
 ---
 
-<img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="400" height="400" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/>
-
 <h1 class="text-center">Lily Dove</h1>
+
+<img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="400" height="400" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/>
 
 <h1 class="text-center">Follow along with me as I sail by checking out the <a href="https://usgoship.ucsd.edu/blogs/#" target="_blank">blog for the GO-SHIP A13.5 cruise!</a></h1>
 
