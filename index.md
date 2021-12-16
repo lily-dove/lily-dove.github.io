@@ -9,7 +9,7 @@ group: home
 <h1 class="text-center">Lily Dove</h1>
 
 <p class="lead text-justify">
-   Follow along with me as I sail by checking out the <a href="https://usgoship.ucsd.edu/blogs/#" target="_blank">blog for the GO-SHIP A13.5 cruise!</a>
+Follow along with me as I sail by checking out the <a href="https://usgoship.ucsd.edu/blogs/#" target="_blank">blog for the GO-SHIP A13.5 cruise!</a>
 </p>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeP7KvcyWfe-k3K3WEPMYbJSGCjMuZYSUy59w1Syfb28flbdA/viewform?embedded=true" width="640" height="697" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
