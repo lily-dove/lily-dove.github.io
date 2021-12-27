@@ -103,7 +103,7 @@ group: publications
                                 {% if publication.links %}
                                 <strong>Access the paper</strong>{% if publication.links.size > 1 %}s{% endif %}:
                                         {% for link in publication.links %}
-                                        <li><a href="{{link.url}}" alt="{{link.name}}">{{link.name}} target="_blank"</a></li>
+                                        <li><a href="{{link.url}}" target="_blank" alt="{{link.name}}">{{link.name}} </a></li>
                                         {% endfor %}
                                 {% endif %}
           </ul>
