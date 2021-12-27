@@ -23,10 +23,10 @@
   #pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
   #links:
   #  - name: 2019 Model Metrics Challenge
-  #    url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+  #    url: 'https://challenges.emdataresource.org/?q=model-metrics-challenge-2019'
   links:
     - name: JGR-Oceans
-      url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017178
+      url: 'https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017178'
 
 - title: "A Link between the Ice Nucleation Activity of Sea Spray Aerosol and the Biogeochemistry of Seawater"
   citation: "Wolf, Martin J., Megan Goodell, Eric Dong, **Lilian A. Dove**, Cuiqi Zhang, Lesly J. Franco, Chuanyang Shen, Emma G. Rutkowski, Domenic N. Narducci, Susan Mullen, Andrew R. Babbin, Daniel J. Cziczo.  *Atmospheric Chemistry and Physics*. 2020."
@@ -37,7 +37,7 @@
 #  biorxiv: '762336'
   links:
     - name: Atmospheric Chemistry and Physics
-      url: https://acp.copernicus.org/articles/20/15341/2020/
+      url: 'https://acp.copernicus.org/articles/20/15341/2020/'
 #    - name: Relax Scripts for calculating non-linear relaxation fits on GitHub
 #      url: https://github.com/fraser-lab/relax
 #    - name: Locksley lab @ UC San Francisco
@@ -61,4 +61,4 @@
 #  biorxiv: '762336'
   links:
     - name: Environmental Science & Technology
-      url: https://pubs.acs.org/doi/abs/10.1021/acs.est.8b05150
+      url: 'https://pubs.acs.org/doi/abs/10.1021/acs.est.8b05150'
