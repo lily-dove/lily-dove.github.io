@@ -8,7 +8,7 @@ group: home
 
 <img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="400" height="400" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/>
 
-<h1 class="text-center">Follow along with me as I sail by checking out the <a href="https://usgoship.ucsd.edu/blogs/#" target="_blank">blog for the GO-SHIP A13.5 cruise!</a></h1>
+<h1 class="text-center">Follow along with me as I sail by checking out the <a href="https://www.go-bgc.org/expedition-logs/south-atlantic-2022" target="_blank">blog for the GO-SHIP A13.5 cruise!</a></h1>
 
 <h1 class="text-center">Submit a question to me about the ship, the people on board, and our science <a href="https://forms.gle/Eafb22s1utG5ihR78" target="_blank">here!</a></h1>
 
