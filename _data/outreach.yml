@@ -16,26 +16,11 @@
 - title: "Float adoptions with the Southern Ocean Carbon and Climate Observations and Modeling program"
   citation: The <a href="https://soccom.princeton.edu/" target="_blank">SOCCOM</a> program has extensively expanded our observations across the Southern Ocean with the deployment of hundreds of biogeochemical-Argo floats. Each float is adopted by a classroom and we decorate the float in order to show off their school pride!  
   date: '2020-06-09'
-  image: '/static/img/pub/float.jpg'
+  image: '/static/img/outreach/float.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
-#  links:
-#    - name: Atmospheric Chemistry and Physics
-#      url: https://acp.copernicus.org/articles/20/15341/2020/
-#    - name: Relax Scripts for calculating non-linear relaxation fits on GitHub
-#      url: https://github.com/fraser-lab/relax
-#    - name: Locksley lab @ UC San Francisco
-#      url: https://locksleylab.ucsf.edu
-#    - name: Van Dyken lab @ Washington University in St. Louis
-#      url: https://sites.wustl.edu/vandykenlab/
-#    - name: Celebratory Tweetstorm
-#      url: https://twitter.com/benjaminbarad/status/1171091343789056000
 
-#    - name: EMRinger Code on Github
-#      url: 'https://github.com/fraser-lab/EMRinger'
-#    - name: Blog Post about EMRinger
-#      url: '/2015/02/17/EMRinger/'
 
 #- title: "Investigating the Heterogeneous Ice Nucleation of Sea Spray Aerosols Using Prochlorococcus as a Model Source of Marine Organic Matter"
 #  citation: "Wolf, Martin J., Alison Coe, **Lilian A. Dove**, Maria A. Zawadowicz, Keven Dooley, Steven J. Biller, Yue Zhang, Sallie W. Chisholm, Daniel J. Cziczo.  *Environmental Science & Technology*. 2019."
