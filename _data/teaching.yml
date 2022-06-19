@@ -1,7 +1,7 @@
 - title: "Guest Lecturing for ESE 1 (Earth's Climate)"
-  citation: "I had the honor of teaching the section about oceans for Caltech's introductory climate class for undergraduates, ESE 1. We talked about the ocean's overturning circulation, gyres, oceanic heat transport, and the biological and physical controls carbon uptake and outgassing. Lots to cover in just a few weeks! I was honored to recieve the Richard H. Jahn's Teaching Award from the Caltech Division of Geological and Planetary Sciences for my contributions to this class."
+  citation: "I had the honor of teaching the section about oceans for Caltech's introductory climate class for undergraduates, ESE 1. We talked about the ocean's overturning circulation, gyres, oceanic heat transport, and the biological and physical controls carbon uptake and outgassing. Lots to cover in just a few weeks! I was honored to recieve the **Richard H. Jahns Teaching Award** from the Caltech Division of Geological and Planetary Sciences for my contributions to this class."
   date: '2021-06-26'
-  image: '/static/img/outreach/IMG_9096.JPG'
+  image: '/static/img/teaching/IMG_9096.JPG'
   #pmid: '33542514'
   #pmcid: 'PMC7864804'
   #biorxiv: '2020.06.12.147033'
@@ -12,11 +12,18 @@
   #links:
     #- name: JGR-Oceans
     #  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017178
+    
+    
+- title: "<i>The Great British Baking Show</i> as an Educational Framework"
+  citation: ""
+  image: '/static/img/teaching/float.jpg'
+#  pmid: '31930591'
+#  pmcid: 'PMC7096708'
+#  biorxiv: '762336'
 
-- title: "Float adoptions with the Southern Ocean Carbon and Climate Observations and Modeling program"
-  citation: The <a href="https://soccom.princeton.edu/" target="_blank">SOCCOM</a> program has extensively expanded our observations across the Southern Ocean with the deployment of hundreds of biogeochemical-Argo floats. Each float is adopted by a classroom and we decorate the float in order to show off their school pride!  
-  date: '2020-06-09'
-  image: '/static/img/outreach/float.jpg'
+- title: "Teaching Assistant for ESE 102 (Earth's Oceans)"
+  citation: "I came to graduate school expecting to study atmospheric chemistry but this class played a huge role in helping me get interested in oceanography! I've really loved TAing ESE 102 two times after taking it, in two very different formats: once in person and once virtually. "
+  image: '/static/img/teaching/float.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
@@ -24,7 +31,7 @@
 
 #- title: "Investigating the Heterogeneous Ice Nucleation of Sea Spray Aerosols Using Prochlorococcus as a Model Source of Marine Organic Matter"
 #  citation: "Wolf, Martin J., Alison Coe, **Lilian A. Dove**, Maria A. Zawadowicz, Keven Dooley, Steven J. Biller, Yue Zhang, Sallie W. Chisholm, Daniel J. Cziczo.  *Environmental Science & Technology*. 2019."
-#  date: '2018-12-27'
+#  date: '2018-12-27'had 
 #  image: '/static/img/pub/Wolf_EST_2019.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
