@@ -10,4 +10,4 @@ The easiest way to get in touch with me is by email at [dove@caltech.edu](mailto
 
 You can also find me online giving my hot takes on <a href="http://twitter.com/SoLilyQuizing" target="_blank">Twitter</a> and showing off my cat on <a href="https://instagram.com/SoLilyQuizing" target="_blank">Instagram</a>.
 
-This website template was designed by <a href="https://github.com/bbarad/bbarad.github.io" target="_blank">Benhamin Baird</a>.
+This website template was designed by <a href="https://github.com/bbarad/bbarad.github.io" target="_blank">Benjamin Baird</a>.
