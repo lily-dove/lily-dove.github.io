@@ -6,9 +6,9 @@
   url: /publications
   group: publications
 
-# - name: blog
-#   url: /blog
-#   group: blog
+- name: outreach
+  url: /outreach
+  group: Outreach
 
 - name: contact
   url: /contact
