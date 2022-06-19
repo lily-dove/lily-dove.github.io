@@ -1,0 +1,34 @@
+- title: "Science events with the Pasadena Unified School District"
+  citation: The Pasadena Unified School District (PUSD) runs science events to expose K-12 students to a variety of topics in STEM. I am always trying to develop new, hands-on projects and demonstrations about oceanography and climate science for the students. 
+  date: '2021-06-26'
+  image: '/static/img/outreach/EliotArts.jpg'
+  #pmid: '33542514'
+  #pmcid: 'PMC7864804'
+  #biorxiv: '2020.06.12.147033'
+  #pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
+  #links:
+  #  - name: 2019 Model Metrics Challenge
+  #    url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+  #links:
+    #- name: JGR-Oceans
+    #  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017178
+
+- title: "Float adoptions with the Southern Ocean Carbon and Climate Observations and Modeling program"
+  citation: The <a href="https://soccom.princeton.edu/" target="_blank">SOCCOM</a> program has extensively expanded our observations across the Southern Ocean with the deployment of hundreds of biogeochemical-Argo floats. Each float is adopted by a classroom and we decorate the float in order to show off their school pride!  
+  date: '2020-06-09'
+  image: '/static/img/outreach/float.jpg'
+#  pmid: '31930591'
+#  pmcid: 'PMC7096708'
+#  biorxiv: '762336'
+
+
+#- title: "Investigating the Heterogeneous Ice Nucleation of Sea Spray Aerosols Using Prochlorococcus as a Model Source of Marine Organic Matter"
+#  citation: "Wolf, Martin J., Alison Coe, **Lilian A. Dove**, Maria A. Zawadowicz, Keven Dooley, Steven J. Biller, Yue Zhang, Sallie W. Chisholm, Daniel J. Cziczo.  *Environmental Science & Technology*. 2019."
+#  date: '2018-12-27'
+#  image: '/static/img/pub/Wolf_EST_2019.jpg'
+#  pmid: '31930591'
+#  pmcid: 'PMC7096708'
+#  biorxiv: '762336'
+#  links:
+#    - name: Environmental Science & Technology
+#      url: https://pubs.acs.org/doi/abs/10.1021/acs.est.8b05150
