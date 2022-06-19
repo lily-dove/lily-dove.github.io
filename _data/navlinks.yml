@@ -5,6 +5,10 @@
 - name: publications
   url: /publications
   group: publications
+  
+- name: teaching
+  url: /teaching
+  group: teaching
 
 - name: outreach
   url: /outreach
