@@ -13,10 +13,10 @@
     #- name: JGR-Oceans
     #  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017178
 
-#- title: "A Link between the Ice Nucleation Activity of Sea Spray Aerosol and the Biogeochemistry of Seawater"
-#  citation: "Wolf, Martin J., Megan Goodell, Eric Dong, **Lilian A. Dove**, Cuiqi Zhang, Lesly J. Franco, Chuanyang Shen, Emma G. Rutkowski, Domenic N. Narducci, Susan Mullen, Andrew R. Babbin, Daniel J. Cziczo.  *Atmospheric Chemistry and Physics*. 2020."
-#  date: '2020-06-09'
-#  image: '/static/img/pub/Wolf_ACP_2020.jpg'
+- title: "Float adoptions with the Southern Ocean Carbon and Climate Observations and Modeling program"
+  citation: The <a href="https://soccom.princeton.edu/" target="_blank">SOCCOM</a> program has extensively expanded our observations across the Southern Ocean with the deployment of hundreds of biogeochemical-Argo floats. Each float is adopted by a classroom and we decorate the float in order to show off their school pride!  
+  date: '2020-06-09'
+  image: '/static/img/pub/float.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
