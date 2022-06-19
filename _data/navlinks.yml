@@ -8,7 +8,7 @@
 
 - name: outreach
   url: /outreach
-  group: Outreach
+  group: outreach
 
 - name: contact
   url: /contact
