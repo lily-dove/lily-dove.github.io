@@ -1,7 +1,7 @@
-- title: "Guest Lecturing for ESE 1 (Earth's Climate)"
-  citation: "I had the honor of teaching the section about oceans for Caltech's introductory climate class for undergraduates, ESE 1. We talked about the ocean's overturning circulation, gyres, oceanic heat transport, and the biological and physical controls carbon uptake and outgassing. Lots to cover in just a few weeks! I was honored to recieve the **Richard H. Jahns Teaching Award** from the Caltech Division of Geological and Planetary Sciences for my contributions to this class."
+- title: "Science events with the Pasadena Unified School District"
+  citation: The Pasadena Unified School District (PUSD) runs science events to expose K-12 students to a variety of topics in STEM. I am always trying to develop new, hands-on projects and demonstrations about oceanography and climate science for the students. 
   date: '2021-06-26'
-  image: '/static/img/teaching/IMG_9096.JPG'
+  image: '/static/img/teaching/IMG_9069.jpg'
   #pmid: '33542514'
   #pmcid: 'PMC7864804'
   #biorxiv: '2020.06.12.147033'
@@ -12,27 +12,11 @@
   #links:
     #- name: JGR-Oceans
     #  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017178
-    
+
 - title: "Float adoptions with the Southern Ocean Carbon and Climate Observations and Modeling program"
   citation: The <a href="https://soccom.princeton.edu/" target="_blank">SOCCOM</a> program has extensively expanded our observations across the Southern Ocean with the deployment of hundreds of biogeochemical-Argo floats. Each float is adopted by a classroom and we decorate the float in order to show off their school pride!  
   date: '2020-06-09'
-  image: '/static/img/outreach/float.jpg'
-#  pmid: '31930591'
-#  pmcid: 'PMC7096708'
-#  biorxiv: '762336'
-    
-- title: "<i>The Great British Baking Show</i> as an Educational Framework"
-  citation: "My officemate at Caltech <a href="https://scholar.google.com/citations?user=v5kgA60AAAAJ&hl=en&oi=ao" target="_blank">Harrison Parker</a> is both an awesome atmospheric chemist and also a fellow baker. We were talking one day about how frameworks showcased in <i>The Great British Baking Show</i> offer a great metafor for higher education and are a perfect starting place for examining the frameworks we set in place for our students. We created a presentation that we have now given several times in academic settings that describes, with this metaphor, how by creating a more welcoming, inclusive, and transparent environment in the classroom, we can raise student motivation, increase academic rigor, and improve the educational experience for all parties."
-  date: '2021-06-27'
-  image: '/static/img/teaching/GBBO.jpg'
-#  pmid: '31930591'
-#  pmcid: 'PMC7096708'
-#  biorxiv: '762336'
-
-- title: "Teaching Assistant for ESE 102 (Earth's Oceans)"
-  citation: "I came to graduate school expecting to study atmospheric chemistry but this class played a huge role in helping me get interested in oceanography! I've really loved TAing ESE 102 two times after taking it, in two very different formats: once in person and once virtually. Through these teaching experiences, I have attained my Certificate of Practice in Effective Teaching from Caltech."
-  date: '2021-06-26'
-#  image: '/static/img/teaching/float.jpg'
+  image: '/static/img/outreach/GBBO.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
@@ -40,7 +24,7 @@
 
 #- title: "Investigating the Heterogeneous Ice Nucleation of Sea Spray Aerosols Using Prochlorococcus as a Model Source of Marine Organic Matter"
 #  citation: "Wolf, Martin J., Alison Coe, **Lilian A. Dove**, Maria A. Zawadowicz, Keven Dooley, Steven J. Biller, Yue Zhang, Sallie W. Chisholm, Daniel J. Cziczo.  *Environmental Science & Technology*. 2019."
-#  date: '2018-12-27'had 
+#  date: '2018-12-27'
 #  image: '/static/img/pub/Wolf_EST_2019.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
