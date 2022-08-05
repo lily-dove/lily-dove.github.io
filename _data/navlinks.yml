@@ -1,10 +1,10 @@
 - name: home
   url: /
   group: home
-
-- name: publications
-  url: /publications
-  group: publications
+  
+- name: research
+  url: /research
+  group: research
   
 - name: teaching
   url: /teaching
@@ -13,6 +13,10 @@
 - name: outreach
   url: /outreach
   group: outreach
+  
+- name: publications
+  url: /publications
+  group: publications
 
 - name: contact
   url: /contact
