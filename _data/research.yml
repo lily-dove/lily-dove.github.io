@@ -1,7 +1,22 @@
-- title: "Science events with the Pasadena Unified School District"
+- title: "Filamentary Structures "
   citation: The Pasadena Unified School District (PUSD) runs science events to expose K-12 students to a variety of topics in STEM. I am always trying to develop new, hands-on projects and demonstrations about oceanography and climate science for the students. 
   date: '2021-06-26'
-  image: '/static/img/outreach/EliotArts.jpg'
+  image: '/static/img/pub/EliotArts.jpg'
+  #pmid: '33542514'
+  #pmcid: 'PMC7864804'
+  #biorxiv: '2020.06.12.147033'
+  #pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
+  #links:
+  #  - name: 2019 Model Metrics Challenge
+  #    url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+  #links:
+    #- name: JGR-Oceans
+    #  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017178
+
+- title: "Flow-topography interactions in the Southern Ocean"
+  citation: The seabed of the Southern Ocean is covered in underwater mountain ranges. When the main current of the Southern Ocean, the Antarctic Circumpolar Current, interacts with this underwater topography, it generates hotspots of mesoscale stirring and submesoscale motions. My work uses in situ observational data and data from satellites to consider how these eddy kinetic energy hotspots impact tracer distributions. 
+  date: '2021-06-26'
+  image: '/static/img/pub/topo.jpg'
   #pmid: '33542514'
   #pmcid: 'PMC7864804'
   #biorxiv: '2020.06.12.147033'
