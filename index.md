@@ -15,5 +15,5 @@ I am an seagoing oceanographer studying the interactions of physics and biogeoch
 </p>
   
 <p class="lead text-justify">
- Outside of research, I participate in outreach at local middle schools in the Pasadena Unified School District and am passionate about increasing the accessibility of oceanography to female, BIPOC, first-generation, LGBTQ+, and disabled students. I am also an avid reader and baker and am always looking for my next cookie recipe! I grew up in northeast Florida and am always excited to meet another southerner in oceanography!
+ Outside of research, I participate in outreach at local middle schools in the Pasadena Unified School District and am passionate about increasing the accessibility of oceanography to female, BIPOC, first-generation, LGBTQ+, and disabled students. I am also an avid reader and baker and am always looking for my next cookie recipe! I grew up in northeast Florida and am always excited to meet another southerner in oceanography.
 </p>
