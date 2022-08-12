@@ -6,19 +6,27 @@
   #pmcid: 'PMC7864804'
   #biorxiv: '2020.06.12.147033'
   #pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
-
-- title: "*The Great British Baking Show* as an Educational Framework"
-  citation: My officemate at Caltech <a href="https://scholar.google.com/citations?user=v5kgA60AAAAJ&hl=en&oi=ao" target="_blank">Harrison Parker</a> is both an awesome atmospheric chemist and also a fellow baker. We were talking one day about how structure of *The Great British Baking Show* offers a great metaphor for higher education and is a perfect starting place for examining the frameworks we set in place for our students. We created a presentation that we have now given several times in academic settings that describes, with this metaphor, how by creating a more welcoming, inclusive, and transparent environment in the classroom, we can raise student motivation, increase academic rigor, and improve the educational experience for all parties.
-  date: '2020-06-09'
-  image: '/static/img/teaching/GBBO.jpg'
+  
+- title: "Mentor for WAVE Fellows at Caltech"
+  citation: The WAVE Fellows program at Caltech seeks to foster diversity in science by increasing the participation of students from marginalized groups. I have had the honor of being a mentor for two phenomenal WAVE fellows, Ellie and Taylor, both of whom were sponsored by the Resnick Sustainability Institute. In summer 2021, Ellie calculated estimates of the eddy subduction and mixed layer carbon pumps using data collected by a glider and a biogeochemical-Argo float as a part of the Southern Area Large Ocean Carbon Experiment (SOLACE). During summer 2022, Taylor worked with glider and satellite data to describe the structure of the fronts in the Antarctic Circumpolar Current at Drake Passage. I am so grateful to have been a part of their scientific journies!
+  date: '2019-06-09'
+#  image: '/static/img/teaching/GBBO.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
 
 - title: "Teaching Assistant for ESE 102 (Earth's Oceans)"
-  citation: I came to graduate school expecting to study atmospheric chemistry but this class played a huge role in sparking my interest in oceanography! I have had a wonderful time TAing the class for two years in two very different classroom experiences - one in-person and one virtual. My experience with being on the teaching staff for this class has contributed to my Certificate of Practice in Effective Teaching at Caltech.
+  citation: I came to graduate school expecting to study atmospheric chemistry but this class played a huge role in sparking my interest in oceanography! I have had a wonderful time TAing the class for two years in two very different classroom experiences - one in-person and one virtual. My experience with being on the teaching staff for this class has contributed to my **Certificate of Practice in Effective Teaching** at Caltech.
   date: '2019-06-09'
-#  image: '/static/img/teaching/GBBO.jpg'
+  image: '/static/img/teaching/ese102.jpg'
+#  pmid: '31930591'
+#  pmcid: 'PMC7096708'
+#  biorxiv: '762336'
+
+- title: "*The Great British Baking Show* as an Educational Framework"
+  citation: My officemate at Caltech <a href="https://scholar.google.com/citations?user=v5kgA60AAAAJ&hl=en&oi=ao" target="_blank">Harrison Parker</a> is both an awesome atmospheric chemist and also a fellow baker. We were talking one day about how structure of *The Great British Baking Show* offers a great metaphor for higher education and is a perfect starting place for examining the frameworks we set in place for our students. We created a presentation that we have now given several times in academic settings that describes, with this metaphor, how by creating a more welcoming, inclusive, and transparent environment in the classroom, we can raise student motivation, increase academic rigor, and improve the educational experience for all parties.
+  date: '2020-06-09'
+  image: '/static/img/teaching/GBBO.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
