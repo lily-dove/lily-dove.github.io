@@ -8,9 +8,17 @@
   #pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
   
 - title: "Bellingshausen and Amundsen Seas"
-  citation: In January-March 2020, I was on board the RVIB <i>Nathaniel B. Palmer</i> helping to deploy gliders as a part of the Transport of the Antarctic Peninsula and Bellingshausen Sea - Antarctic Slope Current Origins (TABASCO) project. While on board, I also helped deploy biogeochemical-Argo floats and learned a lot about marine geochemistry from the rest of the science party, who were primarily part of the Thwaites Offshore Research (THOR) program.
+  citation: In January-March 2020, I was on board the RVIB <i>Nathaniel B. Palmer</i> helping to deploy gliders as a part of the Transport of the Antarctic Peninsula and Bellingshausen Sea - Antarctic Slope Current Origins (TABASCO) project. While on board, I also helped deploy biogeochemical-Argo floats and learned a lot about marine geochemistry from the rest of the science party, who were primarily part of the Thwaites Offshore Research (THOR) program. Ask me about how getting home from Antarctica in late March 2020 was sometime! 
   date: '2019-06-09'
   image: '/static/img/teaching/thwaites.JPG'
+#  pmid: '31930591'
+#  pmcid: 'PMC7096708'
+#  biorxiv: '762336'
+
+- title: "Florida Straits"
+  citation: My first exposure to observational oceanography came as a part of class taught by <a href="http://babbin.scripts.mit.edu/arb/" target="_blank">Andrew Babbin</a> at MIT my senior year. During this class, we spent spring break sailing on the SSV <i>Corwith Cramer</i> learning about how data is collected and analyzed at sea. As a bonus, I got to collect data for my senior thesis on sea spray aerosol while on board. This experience revolutionized my understanding of what being a scientist can look like and is one of the reasons I pursued oceanography in graduate school.
+  date: '2019-06-09'
+  image: '/static/img/teaching/cramer.jpg'
 #  pmid: '31930591'
 #  pmcid: 'PMC7096708'
 #  biorxiv: '762336'
