@@ -8,8 +8,6 @@ group: home
 
 <img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="400" height="400" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/>
 
-<h1 class="text-center">Follow along with me as I sail this summer by checking out the <a href="https://www.go-bgc.org/expedition-logs/north-pacific-2022" target="_blank">blog for the GO-SHIP P02 cruise!</a></h1>
-
 <p class="lead text-justify">
 I am a seagoing oceanographer studying the interactions of physics and biogeochemistry in the Southern Ocean. Currently at Caltech, I work with <a href="http://web.gps.caltech.edu/~andrewt/" target="_blank">Andy Thompson</a> and use data from underwater autonomous vehicles and satellites to understand what role the ocean plays in our climate system. I am broadly interested in how mesoscale and submesoscale dynamics, particularly in the Southern Ocean, affect the efficiency with which carbon dioxide can be transferred from the atmosphere to the deep ocean. Previously, at MIT, I worked to understand how aerosol droplets produced by sea spray could act as nucleation sites for ice clouds. Overall, I am fascinated by all things related to Earth science and am thrilled that my job is to ask and answer questions about the amazing planet we live on.
 </p>
