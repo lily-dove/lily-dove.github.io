@@ -1,5 +1,20 @@
 - title: "Controls on Ventilation in Wintertime Drake Passage"
-  citation: "**Lilian A. Dove**<span>&#42;</span>, Giuliana A. Viglione<span>&#42;</span>, Andrew F. Thompson, M. Mar Flexas, Taylor R. Cason, Janet Sprintall. In preparation for submission to Geophysical Research Letters."
+  citation: "Andrew F. Thompson, **Lilian A. Dove**, Ellie Flint, Leo Lacour, Philip W. Boyd. In preparation for submission to Geophysical Research Letters."
+  date: '2022-06-19'
+  image: '/static/img/pub/DP.jpg'
+  #pmid: '33542514'
+  #pmcid: 'PMC7864804'
+  #biorxiv: '2020.06.12.147033'
+  #pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
+  #links:
+  #  - name: 2019 Model Metrics Challenge
+  #    url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+  links:
+    - name: Preprint on Authorea
+      url: 'https://www.authorea.com/doi/full/10.22541/essoar.168057558.87192564'
+
+- title: "Controls on Ventilation in Wintertime Drake Passage"
+  citation: "**Lilian A. Dove**<span>&#42;</span>, Giuliana A. Viglione<span>&#42;</span>, Andrew F. Thompson, M. Mar Flexas, Taylor R. Cason, Janet Sprintall. 2023."
   date: '2022-06-19'
   image: '/static/img/pub/DP.jpg'
   #pmid: '33542514'
