@@ -9,7 +9,7 @@ group: home
 <img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="400" height="400" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/>
 
 <p class="lead text-justify">
-I am thrilled to announce that I have accepted a <a href="https://cpaess.ucar.edu/cgc/class-33" target="_blank">NOAA Climate & Global Change</a> Postdoctoral Fellowship and will be starting at Brown University working with <a href="https://mara-freilich.github.io/" target="_blank">Mara Freilich</a> on carbon export by small-scale processes in the Southern Ocean!
+I am thrilled to announce that I have accepted a <a href="https://cpaess.ucar.edu/cgc/class-33" target="_blank">NOAA Climate & Global Change</a> Postdoctoral Fellowship and will be starting at Brown University in September 2023 to work with <a href="https://mara-freilich.github.io/" target="_blank">Mara Freilich</a> on carbon export by small-scale processes in the Southern Ocean!
 </p>
   
 <p class="lead text-justify">
