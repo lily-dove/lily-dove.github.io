@@ -22,6 +22,10 @@
   url: /publications
   group: publications
 
+- name: CV
+  url: /CV
+  group: CV
+
 - name: contact
   url: /contact
   group: contact
