@@ -13,6 +13,21 @@
     - name: Preprint on Authorea
       url: 'https://www.authorea.com/doi/full/10.22541/essoar.168057558.87192564'
 
+- title: "Bringing a Lens of Equity to Geoscience Qualifying Examinations"
+  citation: "**Lilian A. Dove**, Clare E. Singer, & Sara E. Murphy. Submitted to AGU Advances."
+  date: '2022-06-19'
+  image: '/static/img/pub/Dove_lamp.jpg'
+  #pmid: '33542514'
+  #pmcid: 'PMC7864804'
+  #biorxiv: '2020.06.12.147033'
+  #pdf: 'https://www.biorxiv.org/content/10.1101/2020.06.12.147033v1.full.pdf'
+  #links:
+  #  - name: 2019 Model Metrics Challenge
+  #    url: https://challenges.emdataresource.org/?q=model-metrics-challenge-2019
+  #links:
+  #  - name: Preprint on Authorea
+  #    url: 'https://www.authorea.com/doi/full/10.22541/essoar.168057558.87192564'
+
 - title: "Controls on Ventilation in Wintertime Drake Passage"
   citation: "**Lilian A. Dove**<span>&#42;</span>, Giuliana A. Viglione<span>&#42;</span>, Andrew F. Thompson, M. Mar Flexas, Taylor R. Cason, Janet Sprintall. 2023."
   date: '2022-06-19'
