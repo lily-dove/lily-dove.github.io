@@ -9,9 +9,7 @@ group: home
 <img src="/static/img/LilyDove1.jpg" width="48%" style="float:left; margin-right:20px;">
 <img src="/static/img/office.JPG" width="48%" style="float:left;">
 
-<p><br /><br /></p>
-
-<p class="lead text-justify">
+<p class="lead text-justify" style="margin-top:3cm;">>
 Sometimes you will find me out at sea, collecting data about Earth's oceans. Most of the time, you can find me working in slightly more comfortable environments. 
 </p>
 
