@@ -6,9 +6,7 @@ group: home
 
 <h1 class="text-center">Lily Dove</h1>
 
-<img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="400" height="400" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/>
-
-<img src="/static/img/office.JPG" class="img-responsive center-block" width="400" height="400" alt="Working hard with Knuckles, the office pup."/>
+<img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="400" height="400" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/> <img src="/static/img/office.JPG" class="img-responsive center-block" width="400" height="400" alt="Working hard with Knuckles, the office pup."/>
 
   
 <p class="lead text-justify">
