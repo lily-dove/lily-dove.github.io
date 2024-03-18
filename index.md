@@ -6,9 +6,8 @@ group: home
 
 <h1 class="text-center">Lily Dove</h1>
 
-<img src="/static/img/LilyDove1.jpg" width="40%" style="display:inline;">
-<div style="display:inline;width:5px;"></div>
-<img src="/static/img/office.JPG" width="40%" style="display:inline;">
+<img src="/static/img/LilyDove1.jpg" width="40%" style="float:left; margin-right:10px;">
+<img src="/static/img/office.JPG" width="40%" style="float:left;">
 
 <p class="lead text-justify">
 Sometimes you will find me out at sea, collecting data about Earth's oceans. Most of the time, you can find me working in slightly more comfortable environments. 
