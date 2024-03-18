@@ -6,7 +6,14 @@ group: home
 
 <h1 class="text-center">Lily Dove</h1>
 
-<img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="400" height="400" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/> <img src="/static/img/office.JPG" class="img-responsive center-block" width="400" height="400" alt="Working hard with Knuckles, the office pup."/>
+<div class="row">
+  <div class="column">
+    <img src="/static/img/LilyDove1.jpg" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica" width="400" height="400">
+  </div>
+  <div class="column">
+    <img src="/static/img/office.JPG" alt="Working hard with Knuckles, the office pup." width="400" height="400">
+  </div>
+</div>
 
 <p class="lead text-justify">
 Sometimes you will find me out at sea, collecting data about Earth's oceans. Most of the time, you can find me working in slightly more comfortable environments.
