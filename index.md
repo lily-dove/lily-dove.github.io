@@ -8,6 +8,9 @@ group: home
 
 <img src="/static/img/LilyDove1.jpg" class="img-responsive center-block" width="400" height="400" alt="Sitting in front of the recently discovered Sif Island in the Amundsen Sea, Antarctica!"/> <img src="/static/img/office.JPG" class="img-responsive center-block" width="400" height="400" alt="Working hard with Knuckles, the office pup."/>
 
+<p class="lead text-justify">
+Sometimes you will find me out at sea, collecting data about Earth's oceans. Most of the time, you can find me working in slightly more comfortable environments.
+</p>
   
 <p class="lead text-justify">
 I am a seagoing oceanographer studying the interactions of physics and biogeochemistry in the Southern Ocean. Currently at Brown University as a <a href="https://cpaess.ucar.edu/cgc/class-33" target="_blank">NOAA Climate & Global Change</a> Postdoctoral Fellow, I work with <a href="https://mara-freilich.github.io/" target="_blank">Mara Freilich</a> and use data from underwater autonomous vehicles and satellites to understand what role the ocean plays in our climate system. I am broadly interested in how mesoscale and submesoscale dynamics affect the efficiency with which carbon dioxide can be transferred from the atmosphere to the deep ocean. Overall, I am fascinated by all things related to Earth science and am thrilled that my job is to ask and answer questions about the amazing planet we live on.
