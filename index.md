@@ -10,6 +10,7 @@ group: home
 <img src="/static/img/office.JPG" width="45%" style="float:left;">
 
 <p></p>
+<p></p>
 
 <p class="lead text-justify">
 Sometimes you will find me out at sea, collecting data about Earth's oceans. Most of the time, you can find me working in slightly more comfortable environments. 
