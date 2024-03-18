@@ -6,8 +6,8 @@ group: home
 
 <h1 class="text-center">Lily Dove</h1>
 
-<img src="/static/img/LilyDove1.jpg" width="45%" style="float:left; margin-right:20px;">
-<img src="/static/img/office.JPG" width="45%" style="float:left;">
+<img src="/static/img/LilyDove1.jpg" width="48%" style="float:left; margin-right:20px;">
+<img src="/static/img/office.JPG" width="48%" style="float:left;">
 
 <p><br /><br /></p>
 
