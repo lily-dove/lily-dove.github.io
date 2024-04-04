@@ -6,7 +6,7 @@ group: contact
 
 <h1 class="page-header text-center"> Contact </h1>
 
-The easiest way to get in touch with me is by email at [lilian_dove@brown.edu](mailto:lilian_dove@brown.edu). 
+The easiest way to get in touch with me is by email at [dove@brown.edu](mailto:dove@brown.edu). 
 
 You can also find me online giving my hot takes on <a href="http://twitter.com/SoLilyQuizing" target="_blank">Twitter</a> and showing off my cat on <a href="https://instagram.com/SoLilyQuizing" target="_blank">Instagram</a>.
 
