@@ -17,10 +17,6 @@
 - name: fieldwork
   url: /fieldwork
   group: fieldwork
-  
-- name: publications
-  url: /publications
-  group: publications
 
 - name: CV
   url: /CV
