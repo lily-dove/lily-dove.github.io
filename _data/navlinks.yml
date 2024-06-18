@@ -22,6 +22,10 @@
   url: /CV
   group: CV
 
+- name: resources
+  url: /resources
+  group: resources
+
 - name: contact
   url: /contact
   group: contact
