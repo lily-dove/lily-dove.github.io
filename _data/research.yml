@@ -28,6 +28,11 @@
     #- name: JGR-Oceans
     #  url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JC017178
 
+- title: "Downstream impacts of increasing ocean stratification"
+  citation: In the last half century, the stratification (density layering) of the upper ocean has increased due to surface warming and sea ice melt. I use idealized numerical models to conduct process studies that investigate how the changing stratification will impact the ability of the ocean to take up and store carbon and heat into the future.
+  date: '2021-06-26'
+  image: '/static/img/pub/strat.jpg'
+
 - title: "Physical mechanisms of carbon export"
   citation: The ocean is the ultimate sink of 90 percent of anthropogenic carbon. However, the pathways that take organic carbon, stored primarily in phytoplankton, from the sunlit upper layers of the ocean to depth remain unconstrained and underobserved. I am specifically interested in the physical mechanisms of the eddy subduction and mixed layer pumps, which may contribute up to half of carbon export in certain seasons and regions.
   date: '2021-06-26'
