@@ -14,6 +14,10 @@ Sometimes you will find me out at sea, collecting data about Earth's oceans. Mos
 </p>
 
 <p class="lead text-justify">
+I am thrilled to announce that in August 2025, I will be starting as an Assistant Professor of Earth and Atmospheric Sciences at the Georgia Institute of Technology (Georgia Tech)!
+</p>
+
+<p class="lead text-justify">
 I am a seagoing oceanographer studying the interactions of physics and biogeochemistry, particularly in polar oceans. Currently at Brown University as a <a href="https://cpaess.ucar.edu/cgc/class-33" target="_blank">NOAA Climate & Global Change</a> Postdoctoral Fellow, I use data from underwater autonomous vehicles, satellite data, and idealized numerical models to understand what role the ocean plays in our climate system. I am interested in how mesoscale and submesoscale dynamics affect the efficiency with which carbon dioxide can be transferred from the atmosphere to the deep ocean. Overall, I am fascinated by all things related to environmental science and am thrilled that my job is to ask and answer questions about the amazing planet we live on.
 </p>
   
